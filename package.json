@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "Wipro-revenue",
   "version": "1.0.0",
-  "description": "Ravi's portfolio",
+  "description": "Wipro employee revenue",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
