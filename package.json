@@ -2,10 +2,13 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Ravi's portfolio",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ravi Prakash Pandey",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
